@@ -1,2 +1,2 @@
 # clean
-Bath script for cc
+Batch script for cc
